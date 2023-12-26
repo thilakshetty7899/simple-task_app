@@ -1,1 +1,1 @@
-class task {}
+class Task {}
